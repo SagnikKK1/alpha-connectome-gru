@@ -1,0 +1,5 @@
+torch>=2.4
+numpy>=2.0
+pyarrow>=17
+onnx>=1.16
+onnxruntime>=1.19

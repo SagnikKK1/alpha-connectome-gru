@@ -1,0 +1,15 @@
+# competition data and starter pack (from the organisers, not redistributed)
+datasets/
+*.parquet
+utils.py
+
+# generated
+cache/
+runs/
+out/
+*.zip
+__pycache__/
+*.pyc
+.venv*/
+.DS_Store
+.env
